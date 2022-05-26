@@ -25,10 +25,3 @@ public class SerieNumeros {
     }
 }
 
-
-/*
-COMENTARIO
-
-
-*/
-
